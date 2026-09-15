@@ -30,7 +30,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 if ( ! class_exists( 'Asadzadeh_Academy_Home' ) ) {
 
-    final class Asadzadeh_Academy_Home {
+    class Asadzadeh_Academy_Home {
 
         const SHORTCODE_NEW = 'asadzadeh_home';
         const SHORTCODE_OLD = 'luxury_academy_home';
